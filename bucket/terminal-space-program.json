@@ -1,12 +1,12 @@
 {
-    "version": "0.18.5",
+    "version": "0.19.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jasonfen/terminal-space-program/releases/download/v0.18.5/terminal-space-program-windows-amd64.zip",
+            "url": "https://github.com/jasonfen/terminal-space-program/releases/download/v0.19.0/terminal-space-program-windows-amd64.zip",
             "bin": [
                 "terminal-space-program.exe"
             ],
-            "hash": "5411daa1ed6f44dcb4c42d3d7be17e70515921a455107b8588b2d78a141f606e"
+            "hash": "d03cfb8aa011bb4011c4df30a5e91d3c425ff08bee3cb35a59fac7dbd6207603"
         }
     },
     "homepage": "https://github.com/jasonfen/terminal-space-program",
